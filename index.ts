@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import inquirer from "inquirer";
 import Choices from "inquirer/lib/objects/choices.js";
 import chalk from "chalk";

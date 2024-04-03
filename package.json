@@ -1,6 +1,6 @@
 {
   "name": "m6j5_cli_atm_machine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A ATM machine",
   "main": "index.js",
   "type": "module",
